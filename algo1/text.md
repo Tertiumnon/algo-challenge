@@ -23,32 +23,20 @@ class Solution {
 
 ### Go
 
-#### @iBubnov
-
 ![go](results/photo_2020-05-15_16-16-17.jpg)
-
-#### @vF1sher
 
 ![go](results/photo_2020-05-22_10-04-49.jpg)
 
 ### CSharp
 
-#### @vvilliamblake
-
 ![csharp](results/photo_2020-05-23.png)
-
-#### @vF1sher
 
 ![charp](results/photo_2020-05-22_09-52-40.jpg)
 
 ### C
 
-#### @vasssad
-
 ![c](results/photo_2020-05-15_16-21-22.jpg)
 
 ### JS
-
-#### @vvilliamblake
 
 ![js](results/photo_2020-05-23_2.png)
